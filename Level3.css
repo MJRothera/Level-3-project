@@ -1,0 +1,44 @@
+body {
+        background-image: url('Web%20Design.jpg');
+        background-repeat: no-repeat;
+        background-size: cover
+        }
+    h1{
+        color:#ca5738
+    }
+    h2{
+        color:#ca5738
+    }
+    p{
+        color: white;
+    }
+    li{
+        display: inline;
+    }
+    ul{
+        list-style-type: none;
+        background-color: ;
+        margin: 0;
+        padding: 0;
+    }
+    li a{
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+    li a:hover{
+        background-color: black;
+    }
+.parallax {
+  
+  background-image: url("Web%20Design.jpg");
+
+  
+  min-height: 500px;
+    
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
